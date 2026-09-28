@@ -4,3 +4,5 @@ USR002,Blair Chen,blair.chen@example.test,ACTIVE
 USR003,Casey Patel,casey.patel@example.test,ACTIVE
 USR004,Drew Kim,drew.kim@example.test,INACTIVE
 USR005,Emery Singh,emery.singh@example.test,ACTIVE
+USR006,Finley Rivera,finley.rivera@example.test,ACTIVE
+USR007,Gray Taylor,gray.taylor@example.test,INACTIVE
