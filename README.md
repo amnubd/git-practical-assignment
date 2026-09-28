@@ -13,4 +13,8 @@ A small text-based project for practicing Git workflows. The repository models a
 
 User records use comma-separated fields documented in `src/users.txt`. Payment records use `Payment ID,User ID,Amount,Currency,Status`; amounts are examples, not production financial data.
 
+## Payment module
+
+The payment module is represented by synthetic rows in `src/payments.txt`. Each row contains a payment ID, related user ID, amount, currency, and status. Example statuses include `SUCCESS` and `PENDING`; these records do not initiate or settle real payments.
+
 This is a Git learning project, not a production application. It has no database, authentication, payment processor, or automated tests.
