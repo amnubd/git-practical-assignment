@@ -1,0 +1,6 @@
+Payment validation draft (learning example)
+Amount: decimal greater than zero, with at most two fractional digits
+Currency: valid ISO 4217 alphabetic code
+Status: SUCCESS,PENDING,FAILED
+Payment ID: unique across the complete payment dataset
+Error handling: reject invalid rows; exact rules are pending review.
