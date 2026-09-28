@@ -22,6 +22,8 @@ The commands below were run against this repository after merging the user-manag
 
 This graph was produced with `git log --oneline --graph --decorate --all`. Branch names and hashes are a snapshot and will change as work continues.
 
+This guide is a reference for interpreting the repository's commit history.
+
 ## Options and references
 
 - `--oneline` abbreviates each commit to one line, showing a short commit ID and subject.
