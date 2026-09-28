@@ -1,0 +1,6 @@
+Payment validation draft (learning example)
+Amount: positive number
+Currency: three-character code
+Status: SUCCESS,PENDING,FAILED
+Payment ID: unique in one data batch
+Error handling: reject invalid rows; exact rules are pending review.
