@@ -1,0 +1,5 @@
+BUG
+Checkpoint A: baseline behavior passes.
+Checkpoint C: validation remains healthy before the regression.
+Checkpoint E: later work continues while the regression remains present.
+Checkpoint F: latest work still carries the regression.

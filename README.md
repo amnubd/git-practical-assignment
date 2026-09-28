@@ -21,4 +21,8 @@ User records use comma-separated fields documented in `src/users.txt`. Payment r
 
 The payment module is represented by synthetic rows in `src/payments.txt`. Each row contains a payment ID, related user ID, amount, currency, and status. Example statuses include `SUCCESS`, `PENDING`, and `FAILED`; these records do not initiate or settle real payments.
 
+## Git exercise documentation
+
+Configuration, ignore rules, repository history, conflict resolution, stash, rebase, interactive rebase, cherry-pick, reset/revert, reflog, bisect, remote investigation, final answers, and hotfix notes are recorded under `docs/`. See the relevant guide for actual commit IDs and command results from this repository.
+
 This is a Git learning project, not a production application. It has no database, authentication, payment processor, or automated tests; all records, including profile details, are instructional sample data only.
