@@ -1,0 +1,4 @@
+Authentication module design (learning example)
+Account identity fields: User ID,Email,Status
+Supported account status values: ACTIVE,INACTIVE
+Credential storage: not implemented; never place passwords or tokens in this file.
