@@ -14,3 +14,5 @@ Payment rows refer to users by ID. All records added for the assignment should b
 ## Scope
 
 There is no runtime service, persistent database, authentication layer, or external payment integration. Those limitations are intentional: the repository is a fixture for Git practice, not a deployable application.
+
+Git workflow explanations are kept under `docs/`, while the feature branches provide the commit history used by the exercises.
