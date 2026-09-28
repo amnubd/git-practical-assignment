@@ -1,0 +1,2 @@
+# Format: User ID,Name,Email,Status
+# Feature-branch exercise: add sample user records on feature/user-management.

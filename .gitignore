@@ -1,0 +1,17 @@
+# Local credentials and environment configuration
+.env
+.env.*
+
+# Dependencies and generated files
+node_modules/
+__pycache__/
+*.py[cod]
+
+# Operating system and editor files
+.DS_Store
+.idea/
+.vscode/
+
+# Logs and temporary scratch files
+*.log
+*.tmp

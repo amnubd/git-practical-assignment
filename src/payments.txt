@@ -1,0 +1,2 @@
+# Format: Payment ID,User ID,Amount,Currency,Status
+# Feature-branch exercise: add sample payment records on feature/payment-module.
