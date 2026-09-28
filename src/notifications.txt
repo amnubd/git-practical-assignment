@@ -1,0 +1,4 @@
+Notification module design (learning example)
+Event,Notification
+USER_REGISTERED,Welcome notice
+PAYMENT_STATUS_CHANGED,Payment status update
