@@ -3,4 +3,5 @@ Purpose: Demonstrate a small application data model while practicing Git workflo
 Current modules: user records and payment records.
 Storage: Plain-text sample files under src/.
 Workflow practice: feature changes are reviewed before reaching the main branch.
+History practice: local feature commits can be replayed onto updated main.
 Limitations: No executable application, database, authentication, or payment processing.
