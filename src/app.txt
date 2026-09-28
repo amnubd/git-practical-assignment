@@ -2,4 +2,5 @@ Application: Git Practical Assignment
 Purpose: Demonstrate a small application data model while practicing Git workflows.
 Current modules: user records and payment records.
 Storage: Plain-text sample files under src/.
+Workflow practice: feature changes are reviewed before reaching the main branch.
 Limitations: No executable application, database, authentication, or payment processing.
