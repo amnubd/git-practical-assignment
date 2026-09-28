@@ -9,6 +9,10 @@ A small text-based project for practicing Git workflows. The repository models a
 - `src/payments.txt` is the payment-record data file.
 - `docs/architecture.md` summarizes the files and their relationships.
 
+## User management
+
+The user-management module is represented by records in `src/users.txt`. Each row contains a unique user ID, name, email, and status (`ACTIVE` or `INACTIVE`). The records are synthetic examples for Git exercises; they do not implement registration, authentication, or account updates.
+
 ## Data format
 
 User records use comma-separated fields documented in `src/users.txt`. Payment records use `Payment ID,User ID,Amount,Currency,Status`; amounts are examples, not production financial data.
