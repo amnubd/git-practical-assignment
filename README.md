@@ -1,4 +1,4 @@
-# Git Practical Assignment
+# Git Practical Assignment (`git-practical-assignment`)
 
 A small text-based project for practicing Git workflows. The repository models a basic application, user records, and payment records; the files are deliberately plain text so changes are easy to inspect in Git diffs.
 
