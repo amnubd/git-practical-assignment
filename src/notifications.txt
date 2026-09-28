@@ -1,0 +1,8 @@
+Notification module design (learning example)
+Event,Notification
+USER_REGISTERED,Welcome notice
+PAYMENT_STATUS_CHANGED,Payment status update
+
+Content: synthetic examples only; do not include credentials or full payment details.
+Delivery status: QUEUED,SENT,FAILED
+Delivery channels: not implemented; no email, SMS, or push messages are sent.
