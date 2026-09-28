@@ -19,6 +19,6 @@ User records use comma-separated fields documented in `src/users.txt`. Payment r
 
 ## Payment module
 
-The payment module is represented by synthetic rows in `src/payments.txt`. Each row contains a payment ID, related user ID, amount, currency, and status. Example statuses include `SUCCESS` and `PENDING`; these records do not initiate or settle real payments.
+The payment module is represented by synthetic rows in `src/payments.txt`. Each row contains a payment ID, related user ID, amount, currency, and status. Example statuses include `SUCCESS`, `PENDING`, and `FAILED`; these records do not initiate or settle real payments.
 
 This is a Git learning project, not a production application. It has no database, authentication, payment processor, or automated tests; all records, including profile details, are instructional sample data only.
