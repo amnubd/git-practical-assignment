@@ -1,2 +1,3 @@
 GOOD
 Checkpoint A: baseline behavior passes.
+Checkpoint C: validation remains healthy before the regression.
