@@ -1,2 +1,4 @@
 # Format: Payment ID,User ID,Amount,Currency,Status
-# Feature-branch exercise: add sample payment records on feature/payment-module.
+PAY001,USR001,500,INR,SUCCESS
+PAY002,USR002,1000,INR,PENDING
+PAY003,USR003,250,INR,FAILED
