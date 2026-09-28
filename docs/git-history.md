@@ -24,6 +24,8 @@ This graph was produced with `git log --oneline --graph --decorate --all`. Branc
 
 This guide is a reference for interpreting the repository's commit history.
 
+Temporary incorrect statement for the revert exercise: a branch stores a complete independent copy of every file.
+
 ## Options and references
 
 - `--oneline` abbreviates each commit to one line, showing a short commit ID and subject.
