@@ -2,3 +2,6 @@ Authentication module design (learning example)
 Account identity fields: User ID,Email,Status
 Supported account status values: ACTIVE,INACTIVE
 Credential storage: not implemented; never place passwords or tokens in this file.
+
+Validation boundary: require a known user ID and ACTIVE status before an example sign-in succeeds.
+Privacy boundary: records are synthetic only; authentication and password verification are not implemented.
