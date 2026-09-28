@@ -3,3 +3,4 @@ Purpose: Demonstrate a small application data model while practicing Git workflo
 Current modules: user records and payment records.
 Storage: Plain-text sample files under src/.
 Limitations: No executable application, database, authentication, or payment processing.
+Notification module: future examples may describe user-facing event alerts.
