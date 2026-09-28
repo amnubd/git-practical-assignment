@@ -1,0 +1,4 @@
+Dashboard module design (learning example)
+Summary sections: User counts,Payment counts,Recent activity
+User counts: ACTIVE,INACTIVE
+Payment counts: SUCCESS,PENDING,FAILED
