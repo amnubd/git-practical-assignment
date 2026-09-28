@@ -1,2 +1,6 @@
 # Format: User ID,Name,Email,Status
-# Feature-branch exercise: add sample user records on feature/user-management.
+USR001,Alex Morgan,alex.morgan@example.test,ACTIVE
+USR002,Blair Chen,blair.chen@example.test,ACTIVE
+USR003,Casey Patel,casey.patel@example.test,ACTIVE
+USR004,Drew Kim,drew.kim@example.test,INACTIVE
+USR005,Emery Singh,emery.singh@example.test,ACTIVE
