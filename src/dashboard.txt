@@ -2,3 +2,7 @@ Dashboard module design (learning example)
 Summary sections: User counts,Payment counts,Recent activity
 User counts: ACTIVE,INACTIVE
 Payment counts: SUCCESS,PENDING,FAILED
+
+Ordering: recent activity is newest-first by event timestamp.
+Privacy: show aggregate counts; do not expose emails or full payment details.
+Implementation: design fixture only; no dashboard UI or query service exists.
